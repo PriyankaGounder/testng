@@ -47,7 +47,10 @@ package Mavenlaunch.org.testng;
 
 		}
 		
-		
+		private void add() {
+			System.out.println("hi java");
+
+		}
 
 	}
 
